@@ -1,0 +1,10 @@
+E:\Video Tutorials\VB.net\Source\VB 20\ConsApp classes 20\bin\Debug\ConsApp classes 20.exe
+E:\Video Tutorials\VB.net\Source\VB 20\ConsApp classes 20\bin\Debug\ConsApp classes 20.pdb
+E:\Video Tutorials\VB.net\Source\VB 20\ConsApp classes 20\bin\Debug\ConsApp classes 20.xml
+E:\Video Tutorials\VB.net\Source\VB 20\ConsApp classes 20\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Video Tutorials\VB.net\Source\VB 20\ConsApp classes 20\obj\x86\Debug\ConsoleApplication1.Resources.resources
+E:\Video Tutorials\VB.net\Source\VB 20\ConsApp classes 20\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Video Tutorials\VB.net\Source\VB 20\ConsApp classes 20\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Video Tutorials\VB.net\Source\VB 20\ConsApp classes 20\obj\x86\Debug\ConsApp classes 20.exe
+E:\Video Tutorials\VB.net\Source\VB 20\ConsApp classes 20\obj\x86\Debug\ConsApp classes 20.xml
+E:\Video Tutorials\VB.net\Source\VB 20\ConsApp classes 20\obj\x86\Debug\ConsApp classes 20.pdb
